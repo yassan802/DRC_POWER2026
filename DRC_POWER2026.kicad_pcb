@@ -40198,10 +40198,62 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "OUT 24V"
+		(at 55.88 -37.361866 0)
+		(layer "F.SilkS")
+		(uuid "25d45735-8701-418e-b5b0-41c5409174fa")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "IN 24V"
+		(at 69.85 -90.17 0)
+		(layer "F.SilkS")
+		(uuid "f96266f6-47e2-41ae-b688-68ae26f33be2")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "DRC_POWER2025 Ver.1.0\n"
 		(at 96.488 -27.9125 0)
 		(layer "F.SilkS")
 		(uuid "c245722f-06ce-4b43-bea8-36af5031c351")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "IN 12V"
+		(at 123.19 -90.17 0)
+		(layer "F.SilkS")
+		(uuid "5a1e4b53-07e5-427a-bbbf-6a23edacbc37")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "OUT 12V"
+		(at 139.7 -38.1 0)
+		(layer "F.SilkS")
+		(uuid "8ee7bd7c-37c9-41e4-8448-128702188f5f")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -43049,7 +43101,7 @@
 		(uuid "2d3e40c0-e5fa-496f-9a8d-77982a545569")
 	)
 	(via
-		(at 127 -91.44)
+		(at 127 -92.71)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -43256,7 +43308,7 @@
 		(uuid "7a7f62dc-3424-483f-a594-60b270b5daec")
 	)
 	(via
-		(at 132.08 -91.44)
+		(at 132.08 -90.17)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -49415,7 +49467,7 @@
 		(uuid "15f20ca6-b954-4891-b6dd-8fc70588047f")
 	)
 	(via
-		(at 76.2 -91.44)
+		(at 76.2 -92.71)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -49694,7 +49746,7 @@
 		(uuid "708e525d-0100-4fcf-be77-fc80581d4705")
 	)
 	(via
-		(at 71.12 -91.44)
+		(at 68.58 -90.17)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
