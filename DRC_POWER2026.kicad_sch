@@ -10456,7 +10456,7 @@
 	(symbol
 		(lib_name "LED_Small_3")
 		(lib_id "Device:LED_Small")
-		(at 223.52 132.08 0)
+		(at 223.52 132.08 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10467,7 +10467,7 @@
 		(fields_autoplaced yes)
 		(uuid "088fb220-48e8-482a-9603-f35b43a7f2ed")
 		(property "Reference" "D14"
-			(at 223.5835 125.73 0)
+			(at 223.4565 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10477,7 +10477,7 @@
 			)
 		)
 		(property "Value" "LED_Small"
-			(at 223.5835 128.27 0)
+			(at 223.4565 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10947,7 +10947,7 @@
 	(symbol
 		(lib_name "LED_Small_2")
 		(lib_id "Device:LED_Small")
-		(at 223.52 123.19 0)
+		(at 223.52 123.19 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10958,7 +10958,7 @@
 		(fields_autoplaced yes)
 		(uuid "1b4300b5-d75f-453c-a12d-70e1a0858a4f")
 		(property "Reference" "D13"
-			(at 223.5835 116.84 0)
+			(at 223.4565 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10968,7 +10968,7 @@
 			)
 		)
 		(property "Value" "LED_Small"
-			(at 223.5835 119.38 0)
+			(at 223.4565 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
